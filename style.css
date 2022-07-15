@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.top, .third {
+    display: flex;
+    flex-direction: column;
+    background-color: lightcoral;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.logo {
+    height: 32px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 32px;
+}
+.about {
+    margin-left: auto;
+}
+
+.container {
+    display: flex;
+
+}
+.second, .last {
+    background-color: aliceblue;
+}
+.spongebob {
+    height: 300px;
+}
+.top {
+    padding: 8px 32px;
+}
