@@ -146,3 +146,11 @@ button:active {
 .top, .second, .third, .last {
     flex: 1;
 }
+footer {
+    margin-top: auto;
+    background-color: lightseagreen;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
